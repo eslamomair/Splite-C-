@@ -1,0 +1,4 @@
+﻿  Splite.cpp
+C:\Users\m_e39\Desktop\test C++\Splite\Splite\Splite.cpp(18,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\m_e39\Desktop\test C++\Splite\Splite\Splite.cpp(50,36): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  Splite.vcxproj -> C:\Users\m_e39\Desktop\test C++\Splite\x64\Debug\Splite.exe
